@@ -9,7 +9,7 @@
 **Серверная часть / СУБД:** Microsoft SQL Server (LocalDB). 
  **Доступ данным:** Entity Framework Core
  **Среда разработки:** Visual Studio 2022
- Контроль версий: Git+GitHub.
+ **Контроль версий:** Git+GitHub.
  
 
 
